@@ -1,0 +1,1 @@
+# Python_wind_turbine_fault_detector
